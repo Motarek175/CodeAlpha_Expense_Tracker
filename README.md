@@ -1,1 +1,3 @@
-# CodeAlpha_Expense_Tracker
+# Expense_Tracker
+
+Demo : https://motarek175.github.io/Expense_Tracker/
